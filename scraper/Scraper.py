@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from scraper.HashMap import HashMap
 from scraper.Kaas import Kaas
 
-URLCarrefour = 'https://drive.carrefour.eu/nl/search?store_ref=D0615&text=kaas'
+URLCarrefour = 'https://drive.carrefour.eu/nl/search?q=kaas%3Arelevance&page=1'
 page = requests.get(URLCarrefour)
 
 soup = BeautifulSoup(page.content, 'html.parser')
