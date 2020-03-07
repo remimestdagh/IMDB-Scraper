@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from scraper.HashMap import HashMap
-from scraper.Kaas import Kaas
+from scraper.domein.Kaas import Kaas
 
 
 for i in range(4):
@@ -13,9 +12,11 @@ for i in range(4):
     kaasNamen = []
     kaasPrijzen = []
     kazen = []
+    kaasPrijsPerKilo = []
 
     prijzenVanKazen = results.find_all_next('span', class_='quantity-price super-bold')
     prijzenNaKommaVanKazen = results.find_all_next('span', class_='cents')
+    prijsPerKilo = results.find_all_next('div', class_='property')
     namenVanKazenHTML = results.find_all_next('p', class_='text-bold title ellipsis')
     namenVanKazen = namenVanKazenHTML
     categorieKazen = results.find_all_next('p',class_='ellipsis')
@@ -25,6 +26,8 @@ for i in range(4):
     for naamKaas in namenVanKazen:
         # print(naamKaas.text, end='\n'*2)
         kaasNamen.append(naamKaas.text.strip())
+    for prijsPerK in prijsPerKilo:
+        kaasPrijsPerKilo.append(prijsPerK.text.strip())
     for i in range(len(prijzenVanKazen)):
-        kazen.append(Kaas(kaasNamen.__getitem__(i), kaasPrijzen.__getitem__(i)))
-        print(kazen.__getitem__(i).name +" " +kazen.__getitem__(i).price +" "+"euro")
+        kazen.append(Kaas(kaasNamen.__getitem__(i), kaasPrijzen.__getitem__(i), kaasPrijsPerKilo.__getitem__(i)))
+        print(kazen.__getitem__(i).name +" " +kazen.__getitem__(i).price +" "+"euro",kazen.__getitem__(i).pricePerKilo)

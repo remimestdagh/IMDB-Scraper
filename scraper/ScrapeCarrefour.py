@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from scraper.HashMap import HashMap
-from scraper.Kaas import Kaas
+from scraper.domein.Kaas import Kaas
 
 
 for i in range(4):
