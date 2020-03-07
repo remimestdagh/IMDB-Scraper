@@ -5,14 +5,8 @@
     "genres": "Drama",
     "runtime": "142 min",
     "score": "9.3",
-    "year": "(1994)",
-    "stars": [
-      "Frank Darabont",
-      "Tim Robbins",
-      "Morgan Freeman",
-      "Bob Gunton",
-      "William Sadler"
-    ]
+    "stars": "Frank Darabont,Tim Robbins,Morgan Freeman,Bob Gunton,William Sadler,",
+    "year": "1994"
   },
   {
     "titel": "The Dark Knight",
@@ -20,14 +14,8 @@
     "genres": "Action, Crime, Drama",
     "runtime": "152 min",
     "score": "9",
-    "year": "(2008)",
-    "stars": [
-      "Christopher Nolan",
-      "Christian Bale",
-      "Heath Ledger",
-      "Aaron Eckhart",
-      "Michael Caine"
-    ]
+    "stars": "Christopher Nolan,Christian Bale,Heath Ledger,Aaron Eckhart,Michael Caine,",
+    "year": "2008"
   },
   {
     "titel": "Inception",
@@ -35,14 +23,8 @@
     "genres": "Action, Adventure, Sci-Fi",
     "runtime": "148 min",
     "score": "8.8",
-    "year": "(2010)",
-    "stars": [
-      "Christopher Nolan",
-      "Leonardo DiCaprio",
-      "Joseph Gordon-Levitt",
-      "Ellen Page",
-      "Ken Watanabe"
-    ]
+    "stars": "Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page,Ken Watanabe,",
+    "year": "2010"
   },
   {
     "titel": "Fight Club",
@@ -50,14 +32,8 @@
     "genres": "Drama",
     "runtime": "139 min",
     "score": "8.8",
-    "year": "(1999)",
-    "stars": [
-      "David Fincher",
-      "Brad Pitt",
-      "Edward Norton",
-      "Meat Loaf",
-      "Zach Grenier"
-    ]
+    "stars": "David Fincher,Brad Pitt,Edward Norton,Meat Loaf,Zach Grenier,",
+    "year": "1999"
   },
   {
     "titel": "Pulp Fiction",
@@ -65,14 +41,8 @@
     "genres": "Crime, Drama",
     "runtime": "154 min",
     "score": "8.9",
-    "year": "(1994)",
-    "stars": [
-      "Quentin Tarantino",
-      "John Travolta",
-      "Uma Thurman",
-      "Samuel L. Jackson",
-      "Bruce Willis"
-    ]
+    "stars": "Quentin Tarantino,John Travolta,Uma Thurman,Samuel L. Jackson,Bruce Willis,",
+    "year": "1994"
   },
   {
     "titel": "Forrest Gump",
@@ -80,14 +50,8 @@
     "genres": "Drama, Romance",
     "runtime": "142 min",
     "score": "8.8",
-    "year": "(1994)",
-    "stars": [
-      "Robert Zemeckis",
-      "Tom Hanks",
-      "Robin Wright",
-      "Gary Sinise",
-      "Sally Field"
-    ]
+    "stars": "Robert Zemeckis,Tom Hanks,Robin Wright,Gary Sinise,Sally Field,",
+    "year": "1994"
   },
   {
     "titel": "The Matrix",
@@ -95,15 +59,8 @@
     "genres": "Action, Sci-Fi",
     "runtime": "136 min",
     "score": "8.7",
-    "year": "(1999)",
-    "stars": [
-      "Lana Wachowski",
-      "Lilly Wachowski",
-      "Keanu Reeves",
-      "Laurence Fishburne",
-      "Carrie-Anne Moss",
-      "Hugo Weaving"
-    ]
+    "stars": "Lana Wachowski,Lilly Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,",
+    "year": "1999"
   },
   {
     "titel": "The Lord of the Rings: The Fellowship of the Ring",
@@ -111,14 +68,8 @@
     "genres": "Action, Adventure, Drama",
     "runtime": "178 min",
     "score": "8.8",
-    "year": "(2001)",
-    "stars": [
-      "Peter Jackson",
-      "Elijah Wood",
-      "Ian McKellen",
-      "Orlando Bloom",
-      "Sean Bean"
-    ]
+    "stars": "Peter Jackson,Elijah Wood,Ian McKellen,Orlando Bloom,Sean Bean,",
+    "year": "2001"
   },
   {
     "titel": "The Lord of the Rings: The Return of the King",
@@ -126,14 +77,8 @@
     "genres": "Adventure, Drama, Fantasy",
     "runtime": "201 min",
     "score": "8.9",
-    "year": "(2003)",
-    "stars": [
-      "Peter Jackson",
-      "Elijah Wood",
-      "Viggo Mortensen",
-      "Ian McKellen",
-      "Orlando Bloom"
-    ]
+    "stars": "Peter Jackson,Elijah Wood,Viggo Mortensen,Ian McKellen,Orlando Bloom,",
+    "year": "2003"
   },
   {
     "titel": "The Godfather",
@@ -141,14 +86,8 @@
     "genres": "Crime, Drama",
     "runtime": "175 min",
     "score": "9.2",
-    "year": "(1972)",
-    "stars": [
-      "Francis Ford Coppola",
-      "Marlon Brando",
-      "Al Pacino",
-      "James Caan",
-      "Diane Keaton"
-    ]
+    "stars": "Francis Ford Coppola,Marlon Brando,Al Pacino,James Caan,Diane Keaton,",
+    "year": "1972"
   },
   {
     "titel": "The Dark Knight Rises",
@@ -156,14 +95,8 @@
     "genres": "Action, Adventure",
     "runtime": "164 min",
     "score": "8.4",
-    "year": "(2012)",
-    "stars": [
-      "Christopher Nolan",
-      "Christian Bale",
-      "Tom Hardy",
-      "Anne Hathaway",
-      "Gary Oldman"
-    ]
+    "stars": "Christopher Nolan,Christian Bale,Tom Hardy,Anne Hathaway,Gary Oldman,",
+    "year": "2012"
   },
   {
     "titel": "The Lord of the Rings: The Two Towers",
@@ -171,14 +104,8 @@
     "genres": "Adventure, Drama, Fantasy",
     "runtime": "179 min",
     "score": "8.7",
-    "year": "(2002)",
-    "stars": [
-      "Peter Jackson",
-      "Elijah Wood",
-      "Ian McKellen",
-      "Viggo Mortensen",
-      "Orlando Bloom"
-    ]
+    "stars": "Peter Jackson,Elijah Wood,Ian McKellen,Viggo Mortensen,Orlando Bloom,",
+    "year": "2002"
   },
   {
     "titel": "Interstellar",
@@ -186,14 +113,8 @@
     "genres": "Adventure, Drama, Sci-Fi",
     "runtime": "169 min",
     "score": "8.6",
-    "year": "(2014)",
-    "stars": [
-      "Christopher Nolan",
-      "Matthew McConaughey",
-      "Anne Hathaway",
-      "Jessica Chastain",
-      "Mackenzie Foy"
-    ]
+    "stars": "Christopher Nolan,Matthew McConaughey,Anne Hathaway,Jessica Chastain,Mackenzie Foy,",
+    "year": "2014"
   },
   {
     "titel": "Se7en",
@@ -201,14 +122,8 @@
     "genres": "Crime, Drama, Mystery",
     "runtime": "127 min",
     "score": "8.6",
-    "year": "(1995)",
-    "stars": [
-      "David Fincher",
-      "Morgan Freeman",
-      "Brad Pitt",
-      "Kevin Spacey",
-      "Andrew Kevin Walker"
-    ]
+    "stars": "David Fincher,Morgan Freeman,Brad Pitt,Kevin Spacey,Andrew Kevin Walker,",
+    "year": "1995"
   },
   {
     "titel": "Django Unchained",
@@ -216,14 +131,8 @@
     "genres": "Drama, Western",
     "runtime": "165 min",
     "score": "8.4",
-    "year": "(2012)",
-    "stars": [
-      "Quentin Tarantino",
-      "Jamie Foxx",
-      "Christoph Waltz",
-      "Leonardo DiCaprio",
-      "Kerry Washington"
-    ]
+    "stars": "Quentin Tarantino,Jamie Foxx,Christoph Waltz,Leonardo DiCaprio,Kerry Washington,",
+    "year": "2012"
   },
   {
     "titel": "Gladiator",
@@ -231,14 +140,8 @@
     "genres": "Action, Adventure, Drama",
     "runtime": "155 min",
     "score": "8.5",
-    "year": "(2000)",
-    "stars": [
-      "Ridley Scott",
-      "Russell Crowe",
-      "Joaquin Phoenix",
-      "Connie Nielsen",
-      "Oliver Reed"
-    ]
+    "stars": "Ridley Scott,Russell Crowe,Joaquin Phoenix,Connie Nielsen,Oliver Reed,",
+    "year": "2000"
   },
   {
     "titel": "Batman Begins",
@@ -246,14 +149,8 @@
     "genres": "Action, Adventure",
     "runtime": "140 min",
     "score": "8.2",
-    "year": "(2005)",
-    "stars": [
-      "Christopher Nolan",
-      "Christian Bale",
-      "Michael Caine",
-      "Ken Watanabe",
-      "Liam Neeson"
-    ]
+    "stars": "Christopher Nolan,Christian Bale,Michael Caine,Ken Watanabe,Liam Neeson,",
+    "year": "2005"
   },
   {
     "titel": "The Avengers",
@@ -261,14 +158,8 @@
     "genres": "Action, Adventure, Sci-Fi",
     "runtime": "143 min",
     "score": "8",
-    "year": "(2012)",
-    "stars": [
-      "Joss Whedon",
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Scarlett Johansson",
-      "Jeremy Renner"
-    ]
+    "stars": "Joss Whedon,Robert Downey Jr.,Chris Evans,Scarlett Johansson,Jeremy Renner,",
+    "year": "2012"
   },
   {
     "titel": "The Silence of the Lambs",
@@ -276,14 +167,8 @@
     "genres": "Crime, Drama, Thriller",
     "runtime": "118 min",
     "score": "8.6",
-    "year": "(1991)",
-    "stars": [
-      "Jonathan Demme",
-      "Jodie Foster",
-      "Anthony Hopkins",
-      "Lawrence A. Bonney",
-      "Kasi Lemmons"
-    ]
+    "stars": "Jonathan Demme,Jodie Foster,Anthony Hopkins,Lawrence A. Bonney,Kasi Lemmons,",
+    "year": "1991"
   },
   {
     "titel": "Inglourious Basterds",
@@ -291,14 +176,8 @@
     "genres": "Adventure, Drama, War",
     "runtime": "153 min",
     "score": "8.3",
-    "year": "(2009)",
-    "stars": [
-      "Quentin Tarantino",
-      "Brad Pitt",
-      "Diane Kruger",
-      "Eli Roth",
-      "M\u00e9lanie Laurent"
-    ]
+    "stars": "Quentin Tarantino,Brad Pitt,Diane Kruger,Eli Roth,M\u00e9lanie Laurent,",
+    "year": "2009"
   },
   {
     "titel": "Star Wars",
@@ -306,14 +185,8 @@
     "genres": "Action, Adventure, Fantasy",
     "runtime": "121 min",
     "score": "8.6",
-    "year": "(1977)",
-    "stars": [
-      "George Lucas",
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher",
-      "Alec Guinness"
-    ]
+    "stars": "George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,Alec Guinness,",
+    "year": "1977"
   },
   {
     "titel": "Saving Private Ryan",
@@ -321,14 +194,8 @@
     "genres": "Drama, War",
     "runtime": "169 min",
     "score": "8.6",
-    "year": "(1998)",
-    "stars": [
-      "Steven Spielberg",
-      "Tom Hanks",
-      "Matt Damon",
-      "Tom Sizemore",
-      "Edward Burns"
-    ]
+    "stars": "Steven Spielberg,Tom Hanks,Matt Damon,Tom Sizemore,Edward Burns,",
+    "year": "1998"
   },
   {
     "titel": "Schindler's List",
@@ -336,14 +203,8 @@
     "genres": "Biography, Drama, History",
     "runtime": "195 min",
     "score": "8.9",
-    "year": "(1993)",
-    "stars": [
-      "Steven Spielberg",
-      "Liam Neeson",
-      "Ralph Fiennes",
-      "Ben Kingsley",
-      "Caroline Goodall"
-    ]
+    "stars": "Steven Spielberg,Liam Neeson,Ralph Fiennes,Ben Kingsley,Caroline Goodall,",
+    "year": "1993"
   },
   {
     "titel": "The Departed",
@@ -351,14 +212,8 @@
     "genres": "Crime, Drama, Thriller",
     "runtime": "151 min",
     "score": "8.5",
-    "year": "(2006)",
-    "stars": [
-      "Martin Scorsese",
-      "Leonardo DiCaprio",
-      "Matt Damon",
-      "Jack Nicholson",
-      "Mark Wahlberg"
-    ]
+    "stars": "Martin Scorsese,Leonardo DiCaprio,Matt Damon,Jack Nicholson,Mark Wahlberg,",
+    "year": "2006"
   },
   {
     "titel": "The Prestige",
@@ -366,14 +221,8 @@
     "genres": "Drama, Mystery, Sci-Fi",
     "runtime": "130 min",
     "score": "8.5",
-    "year": "(2006)",
-    "stars": [
-      "Christopher Nolan",
-      "Christian Bale",
-      "Hugh Jackman",
-      "Scarlett Johansson",
-      "Michael Caine"
-    ]
+    "stars": "Christopher Nolan,Christian Bale,Hugh Jackman,Scarlett Johansson,Michael Caine,",
+    "year": "2006"
   },
   {
     "titel": "Star Wars: Episode V - The Empire Strikes Back",
@@ -381,14 +230,8 @@
     "genres": "Action, Adventure, Fantasy",
     "runtime": "124 min",
     "score": "8.7",
-    "year": "(1980)",
-    "stars": [
-      "Irvin Kershner",
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher",
-      "Billy Dee Williams"
-    ]
+    "stars": "Irvin Kershner,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,",
+    "year": "1980"
   },
   {
     "titel": "The Wolf of Wall Street",
@@ -396,14 +239,8 @@
     "genres": "Biography, Crime, Drama",
     "runtime": "180 min",
     "score": "8.2",
-    "year": "(2013)",
-    "stars": [
-      "Martin Scorsese",
-      "Leonardo DiCaprio",
-      "Jonah Hill",
-      "Margot Robbie",
-      "Matthew McConaughey"
-    ]
+    "stars": "Martin Scorsese,Leonardo DiCaprio,Jonah Hill,Margot Robbie,Matthew McConaughey,",
+    "year": "2013"
   },
   {
     "titel": "Avatar",
@@ -411,14 +248,8 @@
     "genres": "Action, Adventure, Fantasy",
     "runtime": "162 min",
     "score": "7.8",
-    "year": "(2009)",
-    "stars": [
-      "James Cameron",
-      "Sam Worthington",
-      "Zoe Saldana",
-      "Sigourney Weaver",
-      "Michelle Rodriguez"
-    ]
+    "stars": "James Cameron,Sam Worthington,Zoe Saldana,Sigourney Weaver,Michelle Rodriguez,",
+    "year": "2009"
   },
   {
     "titel": "The Green Mile",
@@ -426,14 +257,8 @@
     "genres": "Crime, Drama, Fantasy",
     "runtime": "189 min",
     "score": "8.6",
-    "year": "(1999)",
-    "stars": [
-      "Frank Darabont",
-      "Tom Hanks",
-      "Michael Clarke Duncan",
-      "David Morse",
-      "Bonnie Hunt"
-    ]
+    "stars": "Frank Darabont,Tom Hanks,Michael Clarke Duncan,David Morse,Bonnie Hunt,",
+    "year": "1999"
   },
   {
     "titel": "Memento",
@@ -441,14 +266,8 @@
     "genres": "Mystery, Thriller",
     "runtime": "113 min",
     "score": "8.4",
-    "year": "(2000)",
-    "stars": [
-      "Christopher Nolan",
-      "Guy Pearce",
-      "Carrie-Anne Moss",
-      "Joe Pantoliano",
-      "Mark Boone Junior"
-    ]
+    "stars": "Christopher Nolan,Guy Pearce,Carrie-Anne Moss,Joe Pantoliano,Mark Boone Junior,",
+    "year": "2000"
   },
   {
     "titel": "The Godfather: Part II",
@@ -456,14 +275,8 @@
     "genres": "Crime, Drama",
     "runtime": "202 min",
     "score": "9",
-    "year": "(1974)",
-    "stars": [
-      "Francis Ford Coppola",
-      "Al Pacino",
-      "Robert De Niro",
-      "Robert Duvall",
-      "Diane Keaton"
-    ]
+    "stars": "Francis Ford Coppola,Al Pacino,Robert De Niro,Robert Duvall,Diane Keaton,",
+    "year": "1974"
   },
   {
     "titel": "Shutter Island",
@@ -471,14 +284,8 @@
     "genres": "Mystery, Thriller",
     "runtime": "138 min",
     "score": "8.1",
-    "year": "(2010)",
-    "stars": [
-      "Martin Scorsese",
-      "Leonardo DiCaprio",
-      "Emily Mortimer",
-      "Mark Ruffalo",
-      "Ben Kingsley"
-    ]
+    "stars": "Martin Scorsese,Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo,Ben Kingsley,",
+    "year": "2010"
   },
   {
     "titel": "American Beauty",
@@ -486,14 +293,8 @@
     "genres": "Drama",
     "runtime": "122 min",
     "score": "8.3",
-    "year": "(1999)",
-    "stars": [
-      "Sam Mendes",
-      "Kevin Spacey",
-      "Annette Bening",
-      "Thora Birch",
-      "Wes Bentley"
-    ]
+    "stars": "Sam Mendes,Kevin Spacey,Annette Bening,Thora Birch,Wes Bentley,",
+    "year": "1999"
   },
   {
     "titel": "Guardians of the Galaxy",
@@ -501,14 +302,8 @@
     "genres": "Action, Adventure, Comedy",
     "runtime": "121 min",
     "score": "8",
-    "year": "(2014)",
-    "stars": [
-      "James Gunn",
-      "Chris Pratt",
-      "Vin Diesel",
-      "Bradley Cooper",
-      "Zoe Saldana"
-    ]
+    "stars": "James Gunn,Chris Pratt,Vin Diesel,Bradley Cooper,Zoe Saldana,",
+    "year": "2014"
   },
   {
     "titel": "Titanic",
@@ -516,14 +311,8 @@
     "genres": "Drama, Romance",
     "runtime": "194 min",
     "score": "7.8",
-    "year": "(1997)",
-    "stars": [
-      "James Cameron",
-      "Leonardo DiCaprio",
-      "Kate Winslet",
-      "Billy Zane",
-      "Kathy Bates"
-    ]
+    "stars": "James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,",
+    "year": "1997"
   },
   {
     "titel": "American History X",
@@ -531,14 +320,8 @@
     "genres": "Drama",
     "runtime": "119 min",
     "score": "8.5",
-    "year": "(1998)",
-    "stars": [
-      "Tony Kaye",
-      "Edward Norton",
-      "Edward Furlong",
-      "Beverly D'Angelo",
-      "Jennifer Lien"
-    ]
+    "stars": "Tony Kaye,Edward Norton,Edward Furlong,Beverly D'Angelo,Jennifer Lien,",
+    "year": "1998"
   },
   {
     "titel": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -546,14 +329,8 @@
     "genres": "Action, Adventure, Fantasy",
     "runtime": "143 min",
     "score": "8",
-    "year": "(2003)",
-    "stars": [
-      "Gore Verbinski",
-      "Johnny Depp",
-      "Geoffrey Rush",
-      "Orlando Bloom",
-      "Keira Knightley"
-    ]
+    "stars": "Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,",
+    "year": "2003"
   },
   {
     "titel": "Back to the Future",
@@ -561,14 +338,8 @@
     "genres": "Adventure, Comedy, Sci-Fi",
     "runtime": "116 min",
     "score": "8.5",
-    "year": "(1985)",
-    "stars": [
-      "Robert Zemeckis",
-      "Michael J. Fox",
-      "Christopher Lloyd",
-      "Lea Thompson",
-      "Crispin Glover"
-    ]
+    "stars": "Robert Zemeckis,Michael J. Fox,Christopher Lloyd,Lea Thompson,Crispin Glover,",
+    "year": "1985"
   },
   {
     "titel": "V for Vendetta",
@@ -576,14 +347,8 @@
     "genres": "Action, Drama, Sci-Fi",
     "runtime": "132 min",
     "score": "8.2",
-    "year": "(2005)",
-    "stars": [
-      "James McTeigue",
-      "Hugo Weaving",
-      "Natalie Portman",
-      "Rupert Graves",
-      "Stephen Rea"
-    ]
+    "stars": "James McTeigue,Hugo Weaving,Natalie Portman,Rupert Graves,Stephen Rea,",
+    "year": "2005"
   },
   {
     "titel": "L\u00e9on",
@@ -591,14 +356,8 @@
     "genres": "Action, Crime, Drama",
     "runtime": "110 min",
     "score": "8.5",
-    "year": "(1994)",
-    "stars": [
-      "Luc Besson",
-      "Jean Reno",
-      "Gary Oldman",
-      "Natalie Portman",
-      "Danny Aiello"
-    ]
+    "stars": "Luc Besson,Jean Reno,Gary Oldman,Natalie Portman,Danny Aiello,",
+    "year": "1994"
   },
   {
     "titel": "Goodfellas",
@@ -606,14 +365,8 @@
     "genres": "Biography, Crime, Drama",
     "runtime": "146 min",
     "score": "8.7",
-    "year": "(1990)",
-    "stars": [
-      "Martin Scorsese",
-      "Robert De Niro",
-      "Ray Liotta",
-      "Joe Pesci",
-      "Lorraine Bracco"
-    ]
+    "stars": "Martin Scorsese,Robert De Niro,Ray Liotta,Joe Pesci,Lorraine Bracco,",
+    "year": "1990"
   },
   {
     "titel": "Terminator 2: Judgment Day",
@@ -621,14 +374,8 @@
     "genres": "Action, Sci-Fi",
     "runtime": "137 min",
     "score": "8.5",
-    "year": "(1991)",
-    "stars": [
-      "James Cameron",
-      "Arnold Schwarzenegger",
-      "Linda Hamilton",
-      "Edward Furlong",
-      "Robert Patrick"
-    ]
+    "stars": "James Cameron,Arnold Schwarzenegger,Linda Hamilton,Edward Furlong,Robert Patrick,",
+    "year": "1991"
   },
   {
     "titel": "Kill Bill: Vol. 1",
@@ -636,14 +383,8 @@
     "genres": "Action, Crime, Thriller",
     "runtime": "111 min",
     "score": "8.1",
-    "year": "(2003)",
-    "stars": [
-      "Quentin Tarantino",
-      "Uma Thurman",
-      "David Carradine",
-      "Daryl Hannah",
-      "Michael Madsen"
-    ]
+    "stars": "Quentin Tarantino,Uma Thurman,David Carradine,Daryl Hannah,Michael Madsen,",
+    "year": "2003"
   },
   {
     "titel": "WALL\u00b7E",
@@ -651,14 +392,8 @@
     "genres": "Animation, Adventure, Family",
     "runtime": "98 min",
     "score": "8.4",
-    "year": "(2008)",
-    "stars": [
-      "Andrew Stanton",
-      "Ben Burtt",
-      "Elissa Knight",
-      "Jeff Garlin",
-      "Fred Willard"
-    ]
+    "stars": "Andrew Stanton,Ben Burtt,Elissa Knight,Jeff Garlin,Fred Willard,",
+    "year": "2008"
   },
   {
     "titel": "The Usual Suspects",
@@ -666,14 +401,8 @@
     "genres": "Crime, Mystery, Thriller",
     "runtime": "106 min",
     "score": "8.5",
-    "year": "(1995)",
-    "stars": [
-      "Bryan Singer",
-      "Kevin Spacey",
-      "Gabriel Byrne",
-      "Chazz Palminteri",
-      "Stephen Baldwin"
-    ]
+    "stars": "Bryan Singer,Kevin Spacey,Gabriel Byrne,Chazz Palminteri,Stephen Baldwin,",
+    "year": "1995"
   },
   {
     "titel": "Braveheart",
@@ -681,14 +410,8 @@
     "genres": "Biography, Drama, History",
     "runtime": "178 min",
     "score": "8.3",
-    "year": "(1995)",
-    "stars": [
-      "Mel Gibson",
-      "Mel Gibson",
-      "Sophie Marceau",
-      "Patrick McGoohan",
-      "Angus Macfadyen"
-    ]
+    "stars": "Mel Gibson,Mel Gibson,Sophie Marceau,Patrick McGoohan,Angus Macfadyen,",
+    "year": "1995"
   },
   {
     "titel": "Star Wars: Episode VI - Return of the Jedi",
@@ -696,14 +419,8 @@
     "genres": "Action, Adventure, Fantasy",
     "runtime": "131 min",
     "score": "8.3",
-    "year": "(1983)",
-    "stars": [
-      "Richard Marquand",
-      "Mark Hamill",
-      "Harrison Ford",
-      "Carrie Fisher",
-      "Billy Dee Williams"
-    ]
+    "stars": "Richard Marquand,Mark Hamill,Harrison Ford,Carrie Fisher,Billy Dee Williams,",
+    "year": "1983"
   },
   {
     "titel": "Finding Nemo",
@@ -711,15 +428,8 @@
     "genres": "Animation, Adventure, Comedy",
     "runtime": "100 min",
     "score": "8.1",
-    "year": "(2003)",
-    "stars": [
-      "Andrew Stanton",
-      "Lee Unkrich",
-      "Albert Brooks",
-      "Ellen DeGeneres",
-      "Alexander Gould",
-      "Willem Dafoe"
-    ]
+    "stars": "Andrew Stanton,Lee Unkrich,Albert Brooks,Ellen DeGeneres,Alexander Gould,Willem Dafoe,",
+    "year": "2003"
   },
   {
     "titel": "Iron Man",
@@ -727,14 +437,8 @@
     "genres": "Action, Adventure, Sci-Fi",
     "runtime": "126 min",
     "score": "7.9",
-    "year": "(2008)",
-    "stars": [
-      "Jon Favreau",
-      "Robert Downey Jr.",
-      "Gwyneth Paltrow",
-      "Terrence Howard",
-      "Jeff Bridges"
-    ]
+    "stars": "Jon Favreau,Robert Downey Jr.,Gwyneth Paltrow,Terrence Howard,Jeff Bridges,",
+    "year": "2008"
   },
   {
     "titel": "The Lion King",
@@ -742,14 +446,7 @@
     "genres": "Animation, Adventure, Drama",
     "runtime": "88 min",
     "score": "8.5",
-    "year": "(1994)",
-    "stars": [
-      "Roger Allers",
-      "Rob Minkoff",
-      "Matthew Broderick",
-      "Jeremy Irons",
-      "James Earl Jones",
-      "Whoopi Goldberg"
-    ]
+    "stars": "Roger Allers,Rob Minkoff,Matthew Broderick,Jeremy Irons,James Earl Jones,Whoopi Goldberg,",
+    "year": "1994"
   }
 ]

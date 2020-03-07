@@ -5,8 +5,10 @@ import json
 from scraper.domein.Film import Film
 
 films=[]
+genres=[]
+acteurs=[]
 teller = 0
-for i in range(5):
+for i in range(1):
     url = "https://www.imdb.com/search/title/?sort=num_votes,desc&start=1&title_type=feature&year=1950,2017".format(i)
     r = requests.get(url) # where url is the above url
     bs = BeautifulSoup(r.content, 'html.parser')
@@ -19,20 +21,19 @@ for i in range(5):
         rating = movie.find('span','value').contents[0]
         year = movie.find('span','lister-item-year text-muted unbold').contents[0]
         imdbID = movie.find('span','rating-cancel').a['href'].split('/')[2]
-        stars=[]
+        stars=""
 
         for actor in movie.find('p','').findAll('a'):
-            stars.append(actor.text)
+            stars=stars+actor.text+","
         teller=teller+1
         print(teller,title, genres,runtime, rating, year, imdbID,stars)
-        films.append(Film(title,rating,stars,genres,titleImage,runtime,year))
+        films.append({'titel':title.strip(),'titleImage':titleImage.strip(),
+                         'genres':genres.strip(),'runtime':runtime.strip(),'score':
+                      rating.strip(),'stars':stars,'year': year.strip().replace("(","").replace(")","")})
 
 
 
-with open('films.json', 'w') as f:  # writing JSON object
-    jasonz=[]
-    for film in films:
-        jasonz.append(json.dumps(film.__dict__))
+with open('films2.json', 'w') as f:  # writing JSON object
 
-    json.dump(jasonz, f,indent=2)
-    print(len(jasonz))
+
+    json.dump(films, f,indent=2)
