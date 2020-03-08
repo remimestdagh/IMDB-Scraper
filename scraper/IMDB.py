@@ -29,7 +29,7 @@ for i in range(1, 2000, 50):
         print(teller,title, genres,runtime, rating, year, imdbID,stars)
         films.append({'titel':title.strip(),'titleImage':titleImage.strip(),
                          'genres':genres.strip(),'runtime':runtime.strip(),'score':
-                      rating.strip(),'stars':stars,'year': year.strip().replace("(","").replace(")",""),'imdbID':imdbID.strip()})
+                      rating.strip(),'stars':stars,'year': year.strip().replace("(","").replace(")","").replace("I ",""),'imdbID':imdbID.strip()})
 
 
 
