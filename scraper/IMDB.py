@@ -8,8 +8,8 @@ films=[]
 genres=[]
 acteurs=[]
 teller = 0
-for i in range(1):
-    url = "https://www.imdb.com/search/title/?sort=num_votes,desc&start=1&title_type=feature&year=1950,2017".format(i)
+for i in range(40):
+    url = "https://www.imdb.com/search/title/?sort=num_votes,desc&start={}&title_type=feature&year=1950,2017".format(i)
     r = requests.get(url) # where url is the above url
     bs = BeautifulSoup(r.content, 'html.parser')
 
@@ -33,7 +33,7 @@ for i in range(1):
 
 
 
-with open('films2.json', 'w') as f:  # writing JSON object
+with open('films2000.json', 'w') as f:  # writing JSON object
 
 
     json.dump(films, f,indent=2)
