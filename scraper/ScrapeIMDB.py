@@ -11,6 +11,7 @@ for i in range(5):
     r = requests.get(url) # where url is the above url
     bs = BeautifulSoup(r.content, 'html.parser')
 
+
     for movie in bs.findAll('div',class_='lister-item mode-advanced'):
         title = movie.find('img','loadlate')['alt']
         titleImage = movie.find('img', 'loadlate')['src']
